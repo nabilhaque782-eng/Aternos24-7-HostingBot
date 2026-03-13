@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BDserver12.aternos.me",
+    "ip": "BDserver12.aternos.me:14300",
     "port": 14300,
     "version": "",
     "try-creative": false
