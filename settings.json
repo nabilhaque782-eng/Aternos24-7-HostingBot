@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "BDserver12.aternos.me",
+    "port": 14300,
     "version": "",
     "try-creative": false
   },
